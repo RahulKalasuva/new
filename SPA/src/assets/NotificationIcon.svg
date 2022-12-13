@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.001" height="22.6" viewBox="0 0 21.001 22.6">
+  <g id="NotificationIcon" transform="translate(-1731.999 -19)">
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M10510.338,7181.6a2.086,2.086,0,0,1-2.084-2.084h4.17A2.088,2.088,0,0,1,10510.338,7181.6Zm8.341-3.127H10502v-1.043l2.087-2.084v-5.211a7.4,7.4,0,0,1,1.223-4.233,5.757,5.757,0,0,1,3.468-2.357v-.708a1.564,1.564,0,0,1,2.211-1.423,7,7,0,0,0,5.6,10.574v3.358l2.087,2.084v1.042Z" transform="translate(-8770 -7140)"/>
+    <circle id="Ellipse_385" data-name="Ellipse 385" cx="6" cy="6" r="6" transform="translate(1741 19)" fill="#12b76a"/>
+    <text id="_03" data-name="03" transform="translate(1747 27)" fill="#fff" font-size="6" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="-4" y="0">03</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 125 167">
+=======
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="12" viewBox="0 0 125 167">
+>>>>>>> cf9010457bb5a2de5b158d7d08f2499e9a7086e9
+=======
+<<<<<<< Updated upstream
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 125 167">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 125 167">
+=======
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="12" viewBox="0 0 125 167">
+>>>>>>> cf9010457bb5a2de5b158d7d08f2499e9a7086e9
+=======
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="12" viewBox="0 0 125 167">
+>>>>>>> cf9010457bb5a2de5b158d7d08f2499e9a7086e9
+>>>>>>> Stashed changes
+>>>>>>> sahil
+=======
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="12" viewBox="0 0 125 167">
+>>>>>>> cf9010457bb5a2de5b158d7d08f2499e9a7086e9
+  <defs>
+    <clipPath id="clip-dropdownIcon">
+      <rect width="125" height="167"/>
+    </clipPath>
+  </defs>
+  <g id="dropdownIcon" clip-path="url(#clip-dropdownIcon)">
+    <g id="Dropdown" transform="translate(-304 -174.353)">
+      <path id="Path_21210" data-name="Path 21210" d="M-11017.219-8151.449l59.648,56.047,54.578-56.047Z" transform="translate(11326.219 8430.657)" fill="#101828"/>
+      <path id="Path_21514" data-name="Path 21514" d="M0,0,59.64,56.043,114.228,0Z" transform="translate(423.247 237.396) rotate(180)" fill="#101828"/>
+    </g>
+  </g>
+</svg>
