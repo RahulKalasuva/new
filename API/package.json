@@ -1,0 +1,45 @@
+{
+  "name": "ms-identity-react-c3s1",
+  "version": "1.0.0",
+  "description": "A Node.js & Express web API accepting authorized calls with Azure Active Directory",
+  "author": "derisen",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "jest --forceExit"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2",
+    "express": "^4.18.1",
+    "express-async-handler": "^1.2.0",
+    "express-rate-limit": "^6.5.2",
+    "lowdb": "^1.0.0",
+    "mongoose": "^6.8.0",
+    "morgan": "^1.10.0",
+    "passport": "^0.6.0",
+    "passport-azure-ad": "^4.3.3"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure-Samples/ms-identity-javascript-react-tutorial.git"
+  },
+  "keywords": [
+    "azure-ad",
+    "ms-identity",
+    "node",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/Azure-Samples/ms-identity-javascript-react-tutorial/issues"
+  },
+  "homepage": "https://github.com/Azure-Samples/ms-identity-javascript-react-tutorial#readme",
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.16",
+    "supertest": "^6.2.3"
+  }
+}
